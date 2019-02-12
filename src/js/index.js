@@ -12,7 +12,7 @@ const app = require('express');
 
 const port = process.env.PORT || 3000;
 
-app.lister(port, () => console.log("server is listening"))
+app.listen(port, () => console.log("server is listening"))
 
 /** Global state of the app
  * - Search object
