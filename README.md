@@ -12,7 +12,7 @@ $ npm install
 
 ### Scripts
 
-Forkify utilizes Webpack to compile its files
+This app utilizes Webpack to compile its files
 
 #### Run webpack in development mode:
 
@@ -29,7 +29,7 @@ $ npm run build
 #### Run webpack-dev-server:
 
 ```sh
-$ npm run watch
+$ npm run start
 ```
 
 
