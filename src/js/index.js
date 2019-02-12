@@ -8,12 +8,6 @@ import * as listView from './views/listView';
 import * as likesView from './views/likesView';
 import { elements, renderLoader, clearLoader } from './views/base';
 
-const app = require('express');
-
-const port = process.env.PORT || 3000;
-
-app.listen(port, () => console.log("server is listening"))
-
 /** Global state of the app
  * - Search object
  * - Current recipe object
