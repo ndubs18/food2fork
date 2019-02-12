@@ -41,4 +41,3 @@ $ npm run watch
 ## License
 
 MIT
-MIT
