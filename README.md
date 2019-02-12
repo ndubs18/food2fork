@@ -1,6 +1,4 @@
-# Forkify - tutorial project
-
-Javascript tutorial project from Jonas Schmedtmann's Udemy Course.
+# Food2Fork #
 
 ### Installation
 
@@ -34,10 +32,4 @@ $ npm run build
 $ npm run watch
 ```
 
-### Authors
 
-[Jonas Schmedtmann](https://twitter.com/jonasschmedtman)
-
-## License
-
-MIT
